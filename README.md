@@ -1,4 +1,10 @@
-cits3242
+CITS3240 Programming Paradigms
 ========
 
-CITS3242 Programming Paradigms project - Experiment Unification and Lab Management
+Experiment Unification and Lab Management.
+
+Completed 4/11/2013.
+
+Authors:
+ * Nic Barbaro
+ * Ash Tyndall
